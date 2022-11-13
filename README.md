@@ -17,10 +17,12 @@ yargs-parser - ^21.1.1
 
 Requires Node >=16.
 
+Clone the project from this github
+
 From npm install package globaly in the system,
 
 ```sh
-npm install -g .
+npm i && npm i -g
 ```
 
 ## Usage
