@@ -1,16 +1,16 @@
 # mytools
 
-The Command Line Tools (CLI) function is to retrieve log files on the Linux file system in the folder
+The Command Line Tools (CLI) function is to retrieve log files on the Linux file system in the folder /var/log
 
 ## Packages
-boxen -  ^4.2.0
-chalk - ^4.1.1
-commander - ^9.4.1
-fs - ^0.0.1
-fs-extra - ^10.1.0
-minimist - ^1.2.7
-path - ^0.12.7
-yargs - ^16.1.1
+boxen -  ^4.2.0\
+chalk - ^4.1.1\
+commander - ^9.4.1\
+fs - ^0.0.1\
+fs-extra - ^10.1.0\
+minimist - ^1.2.7\
+path - ^0.12.7\
+yargs - ^16.1.1\
 yargs-parser - ^21.1.1
 
 ## Install
